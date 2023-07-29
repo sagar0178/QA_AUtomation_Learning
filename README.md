@@ -4,7 +4,7 @@ The BankAccount program is a simple command-line application that simulates a ba
 
 ## Requirements
 
-To run the BankAccount program, you need to have Python 3 installed on your system. If you don't have Python installed, you can download it from the official website: [Python Downloads](https://www.python.org/downloads/)
+To run the BankAccount program, you need to have [Python 3](https://www.python.org/downloads/) installed on your system.
 
 ## How to Use
 
