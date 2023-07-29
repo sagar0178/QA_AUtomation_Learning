@@ -72,7 +72,7 @@ if __name__ == "__main__":
 
             if choice == "4":
                 print("Exiting the bank account program.")
-                break
+                sys.exit()
 
             if choice in ("1", "2", "3"):
                 if choice == "1":
